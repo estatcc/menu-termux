@@ -1,0 +1,2 @@
+# menu-termux
+MENU DE INSTALAÇÂO PARA O TERMUX
